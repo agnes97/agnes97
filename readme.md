@@ -18,63 +18,6 @@ WHAT AM I UP TO?
 ⭐ Learning Japanese  
 
 ~~~
-WHAT DO I USE?
-~~~
-
-
-<p style="text-align: center; margin: 0 auto;">
-    FOR STRUCTURE:
-</p>
-
-<div style="display: flex; justify-content: center; text-align: center; margin: 0 auto;">
-
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />](https://html.com/ 'HTML')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />](https://www.json.org/json-en.html 'JSON')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />](https://spec.commonmark.org/ 'Markdown')
-
-</div>
-
-<p style="text-align: center;">
-    FOR STYLE:
-</p>
-<div style="display: flex; justify-content: center;">
-
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />](https://www.w3.org/Style/CSS/Overview.en.html 'CSS')
-<h3>&nbsp;& &nbsp;</h3>
-
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />](https://getbootstrap.com/ 'Bootstrap')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />](https://reactjs.org/ 'Sass')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/styled-components.svg" />](https://styled-components.com/ 'Styled Components')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />](https://tailwindcss.com/ 'TailWind')
-
-</div>  
-
-<p style="text-align: center;">
-    FOR FUNCTIONALITY:
-</p>
-
-<div style="display: flex; justify-content: center;">
-
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />](https://www.javascript.com/ 'JavaScript')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />](https://reactjs.org/ 'React')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />](https://www.typescriptlang.org/ 'TypeScript')
-
-</div>  
-
-<p style="text-align: center;">
-    WORKSPACE, VERSIONING, DEPLOYMENT
-</p>
-
-<div style="display: flex; justify-content: center;">
-
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />](https://firebase.google.com/ 'Firebase')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />](https://git-scm.com/ 'Git')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />](https://www.netlify.com/ 'Netlify')
-[<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />](https://code.visualstudio.com/ 'Visual Studio Code')
-
-</div> 
-
-~~~
 WHERE TO FIND ME?
 ~~~
 
