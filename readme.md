@@ -1,4 +1,4 @@
-# 𝕁𝕒𝕟𝕒 ℂ𝕙𝕒𝕝𝕠𝕦𝕡𝕜𝕠𝕧𝕒 [『𝕒𝕘𝕟𝕖𝕤𝟡𝟟』][github]
+# 𝕁𝕒𝕟𝕒 𝕄𝕒𝕔𝕠𝕧𝕒 [『𝕒𝕘𝕟𝕖𝕤𝟡𝟟』][github]
 
 ~~~
 WHO AM I?
@@ -7,7 +7,7 @@ WHO AM I?
 ⭐ Former librarian 📜 turned **junior front-end developer**. 💻  
 ⭐ TypeScript gal - *I like it functional*.  
 ⭐ INFJ (I usually *React* well) Slytherin 🐍 but Jedi! 🥢  
-⭐ Engaged to the best programmer in the world. For real. Check [him](https://github.com/macajind) out. 
+⭐ Married to the best programmer in the world. For real. Check [him](https://github.com/macajind) out. 
 
 ~~~
 WHAT AM I UP TO?
