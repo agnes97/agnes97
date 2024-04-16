@@ -1,6 +1,6 @@
-{
-    "type": "rainbow",
-    "fileName": "portfolio-light-theme-1.svg",
+[{
+    "type": "normal",
+    "fileName": "portfolio-light-theme.svg",
     "backgroundColor": "#8f72cd",
     "foregroundColor": "white",
     "strongColor": "#8f72cd",
@@ -14,4 +14,41 @@
       "#b6869e",
       "#886476"
     ]
-  }
+  },
+  {
+    "type": "normal",
+    "fileName": "portfolio-dark-theme.svg",
+    "backgroundColor": "#27272b",
+    "foregroundColor": "white",
+    "strongColor": "#27272b",
+    "weakColor": "white",
+    "radarColor": "#71cc93",
+    "growingAnimation": true,
+    "contribColors": [
+      "#a9e0be",
+      "#8dd6a8",
+      "#71cc93",
+      "#5aa375",
+      "#437a58"
+    ]
+  },
+  {
+    "type": "rainbow",
+    "fileName": "readme-rainbow.svg",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "rgb(255,200,55)",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribLightness": [
+      "20%",
+      "30%",
+      "35%",
+      "40%",
+      "50%"
+    ],
+    "duration": "10s",
+    "hueRatio": -7
+  }]
