@@ -1,5 +1,7 @@
 # 𝕁𝕒𝕟𝕒 𝕄𝕒𝕔𝕠𝕧𝕒 [『𝕒𝕘𝕟𝕖𝕤𝟡𝟟』][github]
 
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/agnes97/agnes97/master/profile-3d-contrib/rainbow-readme.svg" />
+
 <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/agnes97/agnes97/master/profile-3d-contrib/portfolio-light-theme.svg" />
 <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/agnes97/agnes97/master/profile-3d-contrib/portfolio-dark-theme.svg" />
 
